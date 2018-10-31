@@ -31,7 +31,7 @@
 <body>
     
 <!-- Thêm phần tiêu đề trang -->
-	<jsp:include page="layout/header.jsp"></jsp:include>
+	<jsp:include page="../layout/header.jsp"></jsp:include>
 	<!-- Xong phần tiêu đề trang -->
 	
     <!-- Bắt đầu phần tiêu đề trang con -->
@@ -133,7 +133,7 @@
     <!-- Xong phần bản đồ -->
 
   <!-- Thêm chân trang -->
-	<jsp:include page="layout/footer.jsp"></jsp:include>
+	<jsp:include page="../layout/footer.jsp"></jsp:include>
 	<!-- Xong thêm chân trang -->
 
 

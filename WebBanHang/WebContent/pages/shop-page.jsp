@@ -31,7 +31,7 @@
 <body>
     
    <!-- Thêm phần tiêu đề trang -->
-	<jsp:include page="layout/header.jsp"></jsp:include>
+	<jsp:include page="../layout/header.jsp"></jsp:include>
 	<!-- Xong phần tiêu đề trang -->
     
     <!-- Bắt đầu tiêu đề trang con -->
@@ -914,11 +914,11 @@
     <!-- Xong nội dung trang danh sách sản phẩm -->
    
   <!-- Thêm chân trang -->
-	<jsp:include page="layout/footer.jsp"></jsp:include>
+	<jsp:include page="../layout/footer.jsp"></jsp:include>
 	<!-- Xong thêm chân trang -->
 
 	<!-- Thêm xem chi tiết sản phẩm -->
-	<jsp:include page="layout/detail_product.jsp"></jsp:include>
+	<jsp:include page="../layout/detail_product.jsp"></jsp:include>
 	<!-- Xong xem chi tiết sản phẩm  -->
    
     <!-- Bắt đầu xem nhanh chi tiết -->
