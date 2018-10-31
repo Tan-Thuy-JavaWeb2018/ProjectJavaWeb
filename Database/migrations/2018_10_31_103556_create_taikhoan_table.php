@@ -19,6 +19,7 @@ class CreateTaikhoanTable extends Migration
             $table->string('email')->unique(); 
             $table->string('matkhau');
             $table->string('phanquyen');
+            $table->string('tenhienthi');
             $table->text('hinhanh')->nullable(); 
             $table->timestamps();
         });
