@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateTinhThanhPhosTable extends Migration
+class CreateTaikhoanTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,13 +13,13 @@ class CreateTinhThanhPhosTable extends Migration
      */
     public function up()
     {
-        Schema::create('tinh_thanh_phos', function (Blueprint $table) {
+        Schema::create('taikhoan', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('ten')->nullable();
-            $table->string('tenkhongdau')->nullable();
-            $table->string('donvi')->nullable();
-            $table->string('tendaydu')->nullable();
-            $table->integer('code')->nullable();
+            $table->string('tentaikhoan');
+            $table->string('email')->unique(); 
+            $table->string('matkhau');
+            $table->string('phanquyen');
+            $table->text('hinhanh')->nullable(); 
             $table->timestamps();
         });
     }
@@ -31,6 +31,6 @@ class CreateTinhThanhPhosTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('tinh_thanh_phos');
+        Schema::dropIfExists('taikhoan');
     }
 }

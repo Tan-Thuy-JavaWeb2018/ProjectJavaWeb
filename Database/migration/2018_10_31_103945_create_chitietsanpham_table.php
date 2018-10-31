@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateSanPhamsTable extends Migration
+class CreateChitietsanphamTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,9 +13,13 @@ class CreateSanPhamsTable extends Migration
      */
     public function up()
     {
-        Schema::create('san_phams', function (Blueprint $table) {
+        Schema::create('chitietsanpham', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('ten');
+
+            $table->text('anhchitiet');
+            // Khóa liên kết đến sản phẩm
+            $table->integer('id_sanpham')->unsigned();
+            $table->foreign('id_sanpham')->references('id')->on('sanpham');  
             $table->timestamps();
         });
     }
@@ -27,6 +31,6 @@ class CreateSanPhamsTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('san_phams');
+        Schema::dropIfExists('chitietsanpham');
     }
 }

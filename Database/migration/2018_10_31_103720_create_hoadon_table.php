@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateKhachHangsTable extends Migration
+class CreateHoadonTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,17 +13,19 @@ class CreateKhachHangsTable extends Migration
      */
     public function up()
     {
-        Schema::create('khach_hangs', function (Blueprint $table) {
+        Schema::create('hoadon', function (Blueprint $table) {
             $table->increments('id');
+
             $table->string('hoten');
-            $table->string('gioitinh');
-            $table->string('email');
-            $table->string('sodienthoai');
             $table->string('tinh');
             $table->string('huyen');
             $table->string('xa');
             $table->string('diachi');
+            $table->string('dienthoai');
+            $table->string('email');
             $table->text('ghichu')->nullable();
+            $table->integer('trangthai');
+
             $table->timestamps();
         });
     }
@@ -35,6 +37,6 @@ class CreateKhachHangsTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('khach_hangs');
+        Schema::dropIfExists('hoadon');
     }
 }
