@@ -1,8 +1,9 @@
 package Control;
  
-import java.util.ArrayList;   
-import Model.Category; 
+import java.util.ArrayList;
+
 import Model.dao_Category;
+import Objects.Category;
 
 public class CategoryControl {
 

@@ -1,5 +1,5 @@
 <%@ page pageEncoding="utf-8"%>    
-<%@ page import = "Model.Category"%> 
+<%@ page import = "Objects.Category"%> 
 <%@ page import = "Control.CategoryControl"%>
 <!DOCTYPE html>
 <html>

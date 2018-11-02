@@ -7,6 +7,8 @@ import java.util.ArrayList;
 import com.mysql.jdbc.Connection;
 import com.mysql.jdbc.Statement;
 
+import Objects.Category;
+
 public class dao_Category { 
 	ConnectToDB conndb;
 	//	Phương thức lấy dữ liệu về

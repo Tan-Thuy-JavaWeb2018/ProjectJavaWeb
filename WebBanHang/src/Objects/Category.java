@@ -1,4 +1,4 @@
-package Model;
+package Objects;
 
 public class Category { 
 	long id;
