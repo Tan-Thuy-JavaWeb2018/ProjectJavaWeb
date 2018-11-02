@@ -1,6 +1,5 @@
 <%@ page pageEncoding="utf-8"%>    
-<%@ page import = "Model.Category"%>
-<%@ page import = "Model.ConnectToDB"%>
+<%@ page import = "Model.Category"%> 
 <%@ page import = "Control.CategoryControl"%>
 <!DOCTYPE html>
 <html>
