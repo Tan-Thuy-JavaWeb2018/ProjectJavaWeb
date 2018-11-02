@@ -9,23 +9,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- icon hiển thị -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="../assets/img/favicon.ico">
 
     <!-- Toàn bộ css -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/pe-icon-7-stroke.css">
-    <link rel="stylesheet" href="lib/css/nivo-slider.css" type="text/css" />
-    <link rel="stylesheet" href="lib/css/preview.css" type="text/css" media="screen" />
-    <link rel="stylesheet" href="assets/css/animate.css">
-    <link rel="stylesheet" href="assets/css/jquery-ui.css">
-    <link rel="stylesheet" href="assets/css/meanmenu.min.css">
-    <link rel="stylesheet" href="assets/css/bundle.css">
-    <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="assets/css/responsive.css">
-    <script src="assets/js/vendor/modernizr-2.8.3.min.js"></script>
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="../assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="../assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../assets/css/pe-icon-7-stroke.css">
+    <link rel="stylesheet" href="../lib/css/nivo-slider.css" type="text/css" />
+    <link rel="stylesheet" href="../lib/css/preview.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="../assets/css/animate.css">
+    <link rel="stylesheet" href="../assets/css/jquery-ui.css">
+    <link rel="stylesheet" href="../assets/css/meanmenu.min.css">
+    <link rel="stylesheet" href="../assets/css/bundle.css">
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/responsive.css">
+    <script src="../assets/js/vendor/modernizr-2.8.3.min.js"></script>
 </head>
 
 <body>
@@ -121,7 +121,7 @@
                             <div class="sidebar-img-text">
                                 <div class="sidebar-img">
                                     <a href="#">
-                                        <img src="assets/img/shop/2.jpg" alt="">
+                                        <img src="../assets/img/shop/2.jpg" alt="">
                                     </a>
                                     <div class="sidebar-text">
                                         <h3>Khuyến mãi</h3>
@@ -169,7 +169,7 @@
                                             <div class="col-md-6 col-lg-4 col-sm-6">
                                                 <div class="single-shop mb-40">
                                                     <div class="shop-img">
-                                                        <a href="#"><img src="assets/img/shop/product/BanhMan1.png" alt="" /></a>
+                                                        <a href="#"><img src="../assets/img/shop/product/BanhMan1.png" alt="" /></a>
                                                         <div class="price-up-down">
                                                             <span class="sale-new">Giảm</span>
                                                         </div>
@@ -203,7 +203,7 @@
                                             <div class="col-md-6 col-lg-4 col-sm-6">
                                                 <div class="single-shop mb-40">
                                                     <div class="shop-img">
-                                                        <a href="#"><img src="assets/img/shop/product/BanhNgot1.png" alt="" /></a>
+                                                        <a href="#"><img src="../assets/img/shop/product/BanhNgot1.png" alt="" /></a>
                                                         <div class="price-up-down">
                                                             <span class="sale-new">Giảm</span>
                                                         </div>
@@ -237,7 +237,7 @@
                                             <div class="col-md-6 col-lg-4 col-sm-6">
                                                 <div class="single-shop mb-40">
                                                     <div class="shop-img">
-                                                        <a href="#"><img src="assets/img/shop/product/BanhNgot2.png" alt="" /></a>
+                                                        <a href="#"><img src="../assets/img/shop/product/BanhNgot2.png" alt="" /></a>
                                                         <div class="price-up-down">
                                                             <span class="sale-new">Mới</span>
                                                         </div>
@@ -271,7 +271,7 @@
                                             <div class="col-md-6 col-lg-4 col-sm-6">
                                                 <div class="single-shop mb-40">
                                                     <div class="shop-img">
-                                                        <a href="#"><img src="assets/img/shop/product/BanhNgot3.png" alt="" /></a>
+                                                        <a href="#"><img src="../assets/img/shop/product/BanhNgot3.png" alt="" /></a>
                                                         <div class="price-up-down">
                                                             <span class="sale-new">Mới</span>
                                                         </div>
@@ -305,7 +305,7 @@
                                             <div class="col-md-6 col-lg-4 col-sm-6">
                                                 <div class="single-shop mb-40">
                                                     <div class="shop-img">
-                                                        <a href="#"><img src="assets/img/shop/product/NuocUong.png" alt="" /></a>
+                                                        <a href="#"><img src="../assets/img/shop/product/NuocUong.png" alt="" /></a>
                                                         <!-- <div class="price-up-down">
                                                             <span class="sale-new">Giảm</span>
                                                         </div> -->
@@ -339,7 +339,7 @@
                                             <div class="col-md-6 col-lg-4 col-sm-6">
                                                 <div class="single-shop mb-40">
                                                     <div class="shop-img">
-                                                        <a href="#"><img src="assets/img/shop/product/NuocUong1.png" alt="" /></a>
+                                                        <a href="#"><img src="../assets/img/shop/product/NuocUong1.png" alt="" /></a>
                                                         <div class="price-up-down">
                                                             <span class="sale-new">Giảm</span>
                                                         </div>
@@ -373,7 +373,7 @@
                                             <div class="col-md-6 col-lg-4 col-sm-6">
                                                 <div class="single-shop mb-40">
                                                     <div class="shop-img">
-                                                        <a href="#"><img src="assets/img/shop/product/TraSua1.png" alt="" /></a>
+                                                        <a href="#"><img src="../assets/img/shop/product/TraSua1.png" alt="" /></a>
                                                         <div class="price-up-down">
                                                             <span class="sale-new">Mới</span>
                                                         </div>
@@ -407,7 +407,7 @@
                                             <div class="col-md-6 col-lg-4 col-sm-6">
                                                 <div class="single-shop mb-40">
                                                     <div class="shop-img">
-                                                        <a href="#"><img src="assets/img/shop/product/BanhNgot1.png" alt="" /></a>
+                                                        <a href="#"><img src="../assets/img/shop/product/BanhNgot1.png" alt="" /></a>
                                                         <div class="price-up-down">
                                                             <span class="sale-new">Giảm</span>
                                                         </div>
@@ -441,7 +441,7 @@
                                             <div class="col-md-6 col-lg-4 col-sm-6">
                                                 <div class="single-shop mb-40">
                                                     <div class="shop-img">
-                                                        <a href="#"><img src="assets/img/shop/product/BanhNgot4.png" alt="" /></a>
+                                                        <a href="#"><img src="../assets/img/shop/product/BanhNgot4.png" alt="" /></a>
                                                         <div class="price-up-down">
                                                             <span class="sale-new">Giảm</span>
                                                         </div>
@@ -475,7 +475,7 @@
                                             <div class="col-md-6 col-lg-4 col-sm-6">
                                                 <div class="single-shop mb-40">
                                                     <div class="shop-img">
-                                                        <a href="#"><img src="assets/img/shop/product/BanhNgot2.png" alt="" /></a>
+                                                        <a href="#"><img src="../assets/img/shop/product/BanhNgot2.png" alt="" /></a>
                                                         <div class="price-up-down">
                                                             <span class="sale-new">Giảm</span>
                                                         </div>
@@ -509,7 +509,7 @@
                                             <div class="col-md-6 col-lg-4 col-sm-6">
                                                 <div class="single-shop mb-40">
                                                     <div class="shop-img">
-                                                        <a href="#"><img src="assets/img/shop/product/BanhNgot4.png" alt="" /></a>
+                                                        <a href="#"><img src="../assets/img/shop/product/BanhNgot4.png" alt="" /></a>
                                                         <div class="price-up-down">
                                                             <span class="sale-new">Giảm</span>
                                                         </div>
@@ -543,7 +543,7 @@
                                             <div class="col-md-6 col-lg-4 col-sm-6">
                                                 <div class="single-shop mb-40">
                                                     <div class="shop-img">
-                                                        <a href="#"><img src="assets/img/shop/product/NuocUong1.png" alt="" /></a>
+                                                        <a href="#"><img src="../assets/img/shop/product/NuocUong1.png" alt="" /></a>
                                                         <div class="price-up-down">
                                                             <span class="sale-new">Giảm</span>
                                                         </div>
@@ -584,7 +584,7 @@
                                                         <div class="col-md-4 col-sm-4 col-xs-12">
                                                             <div class="shop-list-left">
                                                                 <div class="shop-img">
-                                                                    <a href="#"><img src="assets/img/shop/product/NuocUong1.png"
+                                                                    <a href="#"><img src="../assets/img/shop/product/NuocUong1.png"
                                                                             alt="" /> </a>
                                                                     <div class="shop-quick-view">
                                                                         <a href="#" data-toggle="modal" data-target="#quick-view"
@@ -647,7 +647,7 @@
                                                         <div class="col-md-4 col-sm-4 col-xs-12">
                                                             <div class="shop-list-left">
                                                                 <div class="shop-img">
-                                                                    <a href="#"><img src="assets/img/shop/product/BanhNgot2.png"
+                                                                    <a href="#"><img src="../assets/img/shop/product/BanhNgot2.png"
                                                                             alt="" /></a>
                                                                     <div class="shop-quick-view">
                                                                         <a href="#" data-toggle="modal" data-target="#quick-view"
@@ -709,7 +709,7 @@
                                                         <div class="col-md-4 col-sm-4 col-xs-12">
                                                             <div class="shop-list-left">
                                                                 <div class="shop-img">
-                                                                    <a href="#"><img src="assets/img/shop/product/BanhNgot4.png"
+                                                                    <a href="#"><img src="../assets/img/shop/product/BanhNgot4.png"
                                                                             alt="" /></a>
                                                                     <div class="shop-quick-view">
                                                                         <a href="#" data-toggle="modal" data-target="#quick-view"
@@ -769,7 +769,7 @@
                                                         <div class="col-md-4 col-sm-4 col-xs-12">
                                                             <div class="shop-list-left">
                                                                 <div class="shop-img">
-                                                                    <a href="#"><img src="assets/img/shop/product/BanhNgot1.png"
+                                                                    <a href="#"><img src="../assets/img/shop/product/BanhNgot1.png"
                                                                             alt="" /></a>
                                                                     <div class="shop-quick-view">
                                                                         <a href="#" data-toggle="modal" data-target="#quick-view"
@@ -831,7 +831,7 @@
                                                         <div class="col-md-4 col-sm-4 col-xs-12">
                                                             <div class="shop-list-left">
                                                                 <div class="shop-img">
-                                                                    <a href="#"><img src="assets/img/shop/product/NuocUong.png"
+                                                                    <a href="#"><img src="../assets/img/shop/product/NuocUong.png"
                                                                             alt="" /></a>
                                                                     <div class="shop-quick-view">
                                                                         <a href="#" data-toggle="modal" data-target="#quick-view"
@@ -940,19 +940,19 @@
                                                     <div class="single-quick-image tab-content text-center">
 
                                                         <div class="tab-pane  fade in active" id="sin-pro-1">
-                                                            <img src="assets/img/shop/DetailProduct/Ct1BanhMan1.jpg"
+                                                            <img src="../assets/img/shop/DetailProduct/Ct1BanhMan1.jpg"
                                                                 alt="" />
                                                         </div>
                                                         <div class="tab-pane fade in" id="sin-pro-2">
-                                                            <img src="assets/img/shop/DetailProduct/Ct2BanhMan1.jpg"
+                                                            <img src="../assets/img/shop/DetailProduct/Ct2BanhMan1.jpg"
                                                                 alt="" />
                                                         </div>
                                                         <div class="tab-pane fade in" id="sin-pro-3">
-                                                            <img src="assets/img/shop/DetailProduct/Ct3BanhMan1.jpg"
+                                                            <img src="../assets/img/shop/DetailProduct/Ct3BanhMan1.jpg"
                                                                 alt="" />
                                                         </div>
                                                         <div class="tab-pane fade in" id="sin-pro-4">
-                                                            <img src="assets/img/shop/DetailProduct/Ct4BanhMan1.jpg"
+                                                            <img src="../assets/img/shop/DetailProduct/Ct4BanhMan1.jpg"
                                                                 alt="" />
                                                         </div>
 
@@ -960,13 +960,13 @@
                                                     <div class="quick-thumb">
                                                         <div class="nav nav-tabs">
                                                             <ul>
-                                                                <li><a data-toggle="tab" href="#sin-pro-1"> <img src="assets/img/shop/DetailProduct/Ct1BanhMan1.jpg"
+                                                                <li><a data-toggle="tab" href="#sin-pro-1"> <img src="../assets/img/shop/DetailProduct/Ct1BanhMan1.jpg"
                                                                             alt="quick view" /> </a></li>
-                                                                <li><a data-toggle="tab" href="#sin-pro-2"> <img src="assets/img/shop/DetailProduct/Ct2BanhMan1.jpg"
+                                                                <li><a data-toggle="tab" href="#sin-pro-2"> <img src="../assets/img/shop/DetailProduct/Ct2BanhMan1.jpg"
                                                                             alt="quick view" /> </a></li>
-                                                                <li><a data-toggle="tab" href="#sin-pro-3"> <img src="assets/img/shop/DetailProduct/Ct3BanhMan1.jpg"
+                                                                <li><a data-toggle="tab" href="#sin-pro-3"> <img src="../assets/img/shop/DetailProduct/Ct3BanhMan1.jpg"
                                                                             alt="quick view" /> </a></li>
-                                                                <li><a data-toggle="tab" href="#sin-pro-4"> <img src="assets/img/shop/DetailProduct/Ct4BanhMan1.jpg"
+                                                                <li><a data-toggle="tab" href="#sin-pro-4"> <img src="../assets/img/shop/DetailProduct/Ct4BanhMan1.jpg"
                                                                             alt="quick view" /> </a></li>
                                                             </ul>
                                                         </div>
@@ -1064,18 +1064,18 @@
 
 
     <!-- Toàn bộ js -->
-    <script src="assets/js/vendor/jquery-1.12.0.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/jquery.meanmenu.js"></script>
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="assets/js/isotope.pkgd.min.js"></script>
-    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
-    <script src="assets/js/jquery.validate.min.js"></script>
-    <script src="assets/js/owl.carousel.min.js"></script>
-    <script src="lib/js/jquery.nivo.slider.js"></script>
-    <script src="lib/home.js"></script>
-    <script src="assets/js/plugins.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script src="../assets/js/vendor/jquery-1.12.0.min.js"></script>
+    <script src="../assets/js/bootstrap.min.js"></script>
+    <script src="../assets/js/jquery.meanmenu.js"></script>
+    <script src="../assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="../assets/js/isotope.pkgd.min.js"></script>
+    <script src="../assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="../assets/js/jquery.validate.min.js"></script>
+    <script src="../assets/js/owl.carousel.min.js"></script>
+    <script src="../lib/js/jquery.nivo.slider.js"></script>
+    <script src="../lib/home.js"></script>
+    <script src="../assets/js/plugins.js"></script>
+    <script src="../assets/js/main.js"></script>
 </body>
 
 

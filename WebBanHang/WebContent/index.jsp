@@ -7,11 +7,10 @@
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>Trang chủ</title>
 <meta name="description" content="">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
 <!-- icon cho trang -->
 <link rel="shortcut icon" type="image/x-icon"
-	href="assets/img/favicon.ico">
+	href="assets/img/favicon.ico"> 
 	<!-- Toàn bộ link css -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/magnific-popup.css">
@@ -24,9 +23,9 @@
 	<link rel="stylesheet" href="assets/css/animate.css">
 	<link rel="stylesheet" href="assets/css/meanmenu.min.css">
 	<link rel="stylesheet" href="assets/css/bundle.css">
-	<link rel="stylesheet" href="assets/css/style.css">
-	<link rel="stylesheet" href="assets/css/responsive.css">
-	<script src="assets/js/vendor/modernizr-2.8.3.min.js"></script>
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/responsive.css">
+<script src="assets/js/vendor/modernizr-2.8.3.min.js"></script>
 </head>
 
 <body>
@@ -38,6 +37,7 @@
 	<!-- Bắt đầu slide -->
 	<div class="slider-area">
 		<div class="bend niceties preview-2">
+
 			<div id="ensign-nivoslider" class="slides">
 				<img src="assets/img/slider/2.png" alt=""
 					title="#slider-direction-1" /> <img src="assets/img/slider/1.png"
